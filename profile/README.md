@@ -4,7 +4,6 @@
 
 Welcome to Pico Cherry organization!
 
-International Website: [picocherry.com](https://picocherry.com)  
-Croatian Website: [picocherry.hr](https://picocherry.hr)
+[picocherry.com](https://picocherry.com)  
 
 [Contact us](mailto:hi@picocherry.com)
