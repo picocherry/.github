@@ -2,7 +2,7 @@
 
 # Pico Cherry 🤏 🍒
 
-Welcome to Pico Cherry organization!
+Welcome to **Pico Cherry**!
 
 [picocherry.com](https://picocherry.com)
 
