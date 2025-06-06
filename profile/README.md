@@ -1,4 +1,4 @@
-![Pico Cherry Logo](../Cover.png)
+![Pico Cherry Logo](./Cover.png)
 
 # Pico Cherry 🤏 🍒
 
