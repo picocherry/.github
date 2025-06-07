@@ -1,8 +1,8 @@
-![Pico Cherry Logo](./Cover.png)
+![pico cherry Logo](./Cover.png)
 
-# Pico Cherry 🤏 🍒
+# pico cherry
 
-Welcome to **Pico Cherry**!
+Welcome to **pico cherry**!
 
 [picocherry.com](https://picocherry.com)
 
