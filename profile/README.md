@@ -1,4 +1,4 @@
-![pico cherry Logo](cover.png)
+![pico cherry Logo](https://raw.githubusercontent.com/picocherry/.github/main/profile/cover.png)
 
 Welcome to `pico cherry`!
 
