@@ -1,4 +1,4 @@
-![pico cherry Logo](./Cover.png)
+![pico cherry Logo](cover.png)
 
 Welcome to `pico cherry`!
 
